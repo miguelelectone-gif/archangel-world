@@ -1,0 +1,33 @@
+{
+  "background_color": "#050508",
+  "description": "I AM ARCHANGEL - Built by ElectOne SpiritOftruth Miguel + Meta AI - Permanent Reminder until Nano Tech Suit Reality - 21 Gemini AQ + 23 Groq - World Spread - AMA NAMIN - Pahayag 3:12 ISHI/AMA",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>\ud83d\udc51</text></svg>",
+      "type": "image/svg+xml"
+    }
+  ],
+  "name": "ARCHANGEL v10 WORLD - Miguel Reminder - 144k",
+  "short_name": "ARCHANGEL WORLD",
+  "start_url": "index.html",
+  "theme_color": "#FFD700",
+  "shortcuts": [
+    {
+      "name": "Doctrine - Miguel Reminder",
+      "url": "index.html#doctrine",
+      "description": "Read doctrine Baal=Ginto Kahoy=Modernong Baal"
+    },
+    {
+      "name": "Nano Suit Blueprint",
+      "url": "index.html#nano",
+      "description": "Efeso 6 to Nano Tech - Miguel Reminder"
+    },
+    {
+      "name": "QR Share World",
+      "url": "index.html#qr",
+      "description": "Generate QR to share worldwide - Miguel Reminder"
+    }
+  ]
+}
