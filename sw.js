@@ -1,3 +1,4 @@
+
 // ARCHANGEL v12 WORLD SPREAD - PWA Offline - Miguel Reminder Permanent until Nano Suit Reality
 const CACHE_NAME = 'archangel-world-v12-miguel-reminder-144k';
 const URLS_TO_CACHE = [
